@@ -1,5 +1,7 @@
 # React Tetris - Starter files
 
+Enjoyed working on this classic game, utilizing this tutorial, and working with grids/matrices 
+
 This is the starter files for the React-Tetris tutorial, you will find: 
 
 1. The background (from Unsplash, Clemen Vrankar).
